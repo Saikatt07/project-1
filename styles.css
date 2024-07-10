@@ -1,0 +1,28 @@
+/* Reset some default styles */
+body, h1, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Global styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+/* Navigation Bar */
+nav {
+    background-color: #333;
+    color: #fff;
+    /* Add styles for navigation links */
+}
+
+/* Main Content */
+.intro {
+    background-color: #1a1a1a;
+    color: #fff;
+    /* Add styles for heading, buttons, and illustration */
+}
+
+/* Other sections (skills, inspiration, dream version, next target) */
+/* Add appropriate styles for each section */
